@@ -1,0 +1,15 @@
+# Public receiving accounts only. Replace examples with verified information.
+# Do not publish credentials, OTPs, or sensitive private data.
+profile:
+  title: "Payment & Donation"
+  description: "Chọn tài khoản, sao chép hoặc quét VietQR."
+accounts:
+  - id: example
+    category: bank
+    bank: "Ngân hàng mẫu"
+    bankId: "970436"
+    name: "TEN CHU TAI KHOAN"
+    number: "0000000000"
+    note: ""
+    featured: true
+    enabled: false
