@@ -4,12 +4,14 @@ profile:
   title: "Payment & Donation"
   description: "Chọn tài khoản, sao chép hoặc quét VietQR."
 accounts:
-  - id: example
+ 
+accounts:
+  - id: primary
     category: bank
-    bank: "Ngân hàng mẫu"
+    bank: "Vietcombank"
     bankId: "970436"
-    name: "TEN CHU TAI KHOAN"
-    number: "0000000000"
-    note: ""
+    name: "NGUYEN VAN A"
+    number: "0123456789"
+    note: "Donate ePlus DEV"
     featured: true
-    enabled: false
+    enabled: true
